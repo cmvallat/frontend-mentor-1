@@ -92,6 +92,7 @@ button {
   padding-bottom: 20px;
   border-radius: 5px;
   box-shadow: 3px 3px 3px hsl(228, 45%, 44%, 0.35);
+  max-width: 500px;
 }
 
 .container img.hero {
@@ -152,6 +153,6 @@ button {
   }
 
   .container {
-    width: 500px;
+    max-width: 500px;
   }
 }
